@@ -58,7 +58,7 @@ Com esta base sólida em lógica e programação estruturada, meus próximos obj
 
 Vamos nos conectar!
 
-* **LinkedIn:** [[Kauan Yuri]](https://www.linkedin.com/in/kauan-souza-ab9264307/)
+* **LinkedIn:** [Kauan Yuri](https://www.linkedin.com/in/kauan-souza-ab9264307/)
 * **Email:** contato.kauanyuri@gmail.com
 * **Email USP** kauanyuri@usp.br
 
