@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu repositório de estudos. Este espaço documenta meu desenvolvimento das competências computacionais fundamentais que formam a base da minha carreira em Estatística e Ciência de Dados na USP- ICMC.
 
-## 🎯 Propósito: Construindo o Alicerce
+## Propósito
 
 A base de toda grande análise de dados é um código sólido e uma lógica bem estruturada. O objetivo deste repositório é demonstrar meu processo de aprendizado na arte de resolver problemas através de algoritmos e programação, uma habilidade indispensável para qualquer profissional de dados.
 
@@ -19,15 +19,15 @@ Este repositório cataloga os projetos e exercícios de duas disciplinas complem
 * **Introdução à Ciência da Computação (ICC):** Foco nos conceitos teóricos, na lógica de programação e no desenho de algoritmos.
 * **Laboratório de Introdução à Ciência da Computação (Lab ICC):** Foco na implementação prática, na escrita de código e na depuração de programas em **Python**.
 
-## 💡 Habilidades e Competências Chave
+## 💡 Habilidades e Competências
 
 Com base no conteúdo programático, as habilidades que estou desenvolvendo e demonstrando aqui são:
 
-* ✔️ **Pensamento Algorítmico e Resolução de Problemas:** Análise de problemas e desenvolvimento de algoritmos para solucioná-los.
-* ✔️ **Lógica de Programação e Estruturas de Controle:** Uso eficaz de estruturas de decisão (`if/else`) e repetição (`for`, `while`).
-* ✔️ **Modularização e Funções:** Criação de funções e procedimentos para organizar o código, aumentar o reuso e a clareza.
-* ✔️ **Manipulação de Estruturas de Dados Fundamentais:** Utilização de tipos simples e compostos como vetores, matrizes e registros.
-* ✔️ **Depuração (`Debugging`) e Testes Lógicos:** Técnicas para encontrar e corrigir defeitos em programas, incluindo testes de mesa.
+* **Pensamento Algorítmico e Resolução de Problemas:** Análise de problemas e desenvolvimento de algoritmos para solucioná-los.
+* **Lógica de Programação e Estruturas de Controle:** Uso eficaz de estruturas de decisão (`if/else`) e repetição (`for`, `while`).
+* **Modularização e Funções:** Criação de funções e procedimentos para organizar o código, aumentar o reuso e a clareza.
+* **Manipulação de Estruturas de Dados Fundamentais:** Utilização de tipos simples e compostos como vetores, matrizes e registros.
+* **Depuração (`Debugging`) e Testes Lógicos:** Técnicas para encontrar e corrigir defeitos em programas, incluindo testes de mesa.
 
 ## 📂 Estrutura do Repositório
 
